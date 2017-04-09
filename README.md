@@ -9,6 +9,8 @@ java -jar tts.jar "<language>" "<text>"
 java -jar tts.jar "En-us" "It works! Foo!"
 ```
 
+I think there are all languages available. For example: En-us, DE-de, ...
+
 You can get the lastest runnable Jar file
 
-[HERE](https://www.google.com "TTS runnable JAR file")
+[HERE](https://github.com/alex0107/Java-GoogleTTS/raw/master/tts.jar "TTS runnable JAR file")
